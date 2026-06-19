@@ -1,7 +1,7 @@
 {
   "qq_number": "592182627",
   "group_number": "639056263",
-  "updated_at": "2026-06-19T01:04:57+00:00",
+  "updated_at": "2026-06-19T01:05:05+00:00",
   "skins": [
     {
       "name": "笨兔牙年1",
@@ -20,6 +20,12 @@
       "file": "笨兔牙年3.bds",
       "thumb": "笨兔牙年3.bds_py_26_light_thumb.png",
       "full": "笨兔牙年3.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "笨兔牙年1",
+      "file": "笨兔牙年1.bdi",
+      "thumb": "笨兔牙年1.bdi_py_26_light_thumb.png",
+      "full": "笨兔牙年1.bdi_py_26_light_thumb.png"
     }
   ]
 }
